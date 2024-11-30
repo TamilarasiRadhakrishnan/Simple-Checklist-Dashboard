@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #checklist {
+    margin-top: 20px;
+  }
+  
+  .rule {
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .passed {
+    color: green;
+    border-color: green;
+  }
+  
+  .failed {
+    color: red;
+    border-color: red;
+  }
+  
